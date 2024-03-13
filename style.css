@@ -32,6 +32,7 @@ img {
 
 p {
       color: #fff;
+      line-height: 1.5;
 }
 
 button {
@@ -79,7 +80,7 @@ footer {
       text-decoration: none;
  }
 
- .learn-more.hover {
+ .learn-more:hover {
       text-decoration: underline;
       cursor: pointer;
  }
